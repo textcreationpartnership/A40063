@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fourteen queries offered to the consideration of all the faithful adherents to the Parliament, and publick interests who are not corrupted into the present design for oligarchy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40063</idno>
+            <idno type="STC">Wing F1683</idno>
+            <idno type="STC">ESTC R38890</idno>
+            <idno type="EEBO-CITATION">18186138</idno>
+            <idno type="OCLC">ocm 18186138</idno>
+            <idno type="VID">106954</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40063)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106954)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1123:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fourteen queries offered to the consideration of all the faithful adherents to the Parliament, and publick interests who are not corrupted into the present design for oligarchy.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained with print show-through.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oligarchy --  Great Britain.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106954:1"/>
+            <!-- PDF PAGE 84 -->
+            <pb facs="tcp:106954:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 84 -->
+            <p>Fourteen QUERIES Offered to the Conſideration of all the Faithful Adherents to the PARLIAMENT, And Publick Intereſts: VVho are not corrupted into the preſent DESIGN FOR OLIGARCHY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:106954:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 85 -->
+            <pb n="3" facs="tcp:106954:2"/>
+            <!-- PDF PAGE 85 -->
+            <head>Fourteen QUERIES Offered to the Conſideration of all the faithful Adherents to the Parliament, and Publick Intereſt, &amp;c.</head>
+            <head type="sub">Taking the great Cauſe ſo long contended for, to be the pulling down of Kingly Power, to make way for the ſecuring of both Civil and Spiritual Liberty, the queſtion follows.</head>
+            <p>
+               <label>I.</label>
+               <lb/>
+VVHether the Parliament, who never ſwerved from their principles of rooting our all foot<g ref="char:EOLhyphen"/>ſteps of Monarchy (the irreconcileable enemy to liberty of conſcience) with a full intent to ſettle an equal Commonwealth, under which kinde of Government the perſecution of conſcience is incompatible. Or whether thoſe, who with the notorious breach of faith and engage<g ref="char:EOLhyphen"/>ments have once already eſſayed to ſet up Monarchy, under which Government liberty of conſcience is inconſiſtant,
+<pb facs="tcp:106954:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 86 -->
+               <pb n="3" facs="tcp:106954:3"/>
+               <!-- PDF PAGE 86 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:106954:4"/>
+               <!-- PDF PAGE 87 -->and cannot be preſerved, are the fitteſt perſons, in reference to liberty of conſcience, as leaſt likely to berray it, to be intruſted with the ſettleing of the Government.</p>
+            <p>
+               <label>II.</label>
+               <lb/>
+Whether the late Interruption of Government, under pretence of ſecuring liberty of conſcience, when there had been the greateſt tenderneſs of it that is imaginable, and not the leaſt approach made to the infringement of it, be not hypocritical, fraudulent and deceitful, onpurpoſe to colour the deſign in ſome, for a Single Perſon, and of others for an an Oligarchy, or Triumviſate.</p>
+            <p>
+               <label>III.</label>
+               <lb/>
+Whether an Army, who makes themſelves a diſtinct Corporation, or a Commonwealth within a Common<g ref="char:EOLhyphen"/>wealth, are likley to ſettle an equall Government upon the ſingle intereſt of publick and common good: Or whether in the framing of the Government, they are not rather likely to ſet up their own particular intereſt above and ſupe<g ref="char:EOLhyphen"/>riour to the publick and common Intereſt; as that which will be as natural to them to do, as it alwayes hath been to Monarches; and as it is to all mankinde, to prefer them<g ref="char:EOLhyphen"/>ſelves before all others.</p>
+            <p>
+               <label>IV.</label>
+               <lb/>
+Whether Souldiers, whoſe genious's are of a different nature to that of Government, and whoſe breedings have
+<pb n="5" facs="tcp:106954:4"/>
+               <!-- PDF PAGE 87 -->not ben at all in Polliticks, nor out of their own Coun<g ref="char:EOLhyphen"/>trey<g ref="char:punc">▪</g> and who, according to ancient Maximes, are good ſervants, but bad maſters, good defenders of Laws in ſome caſes, the worſt makers and executioners of them in the world, (witneſs the late Reign of our <hi>Baſhawes</hi>) are fitting perſons to frame a new Government, eſpecially thoſe that joyn with them being no other to them then Jurnymen.</p>
+            <p>
+               <label>V.</label>
+               <lb/>
+Whether if any Government be ſettled upon the founda<g ref="char:EOLhyphen"/>tions of a double intereſt, we do not thereby utterly loſe all that we have fought for; our engagements having been all along againſt the intereſt of Monarchy, to the end, to re<g ref="char:EOLhyphen"/>duce all to the ſingle intereſt of publick and common good.</p>
+            <p>
+               <label>VI.</label>
+               <lb/>
+Whether it is to be believed, that thoſe perſons intends to ſet up a free State upon the ſingle intereſt of the publick, who takes into their counſels the greateſt enemies to it; as ſuch, who out of love to Monarchy deſerted the Parliament at the death of the King, and were as violent maintainers of the late Uſurper in all his Tyrannies: Or whether they are not likely to ſet up another ſingle perſon, or an Oligarchy, and whether grapes of thorns, and figs of thiſtles are to be expected.</p>
+            <p>
+               <label>VII.</label>
+               <lb/>
+Whether <hi>Cromwells</hi> crooked and by wayes are not exactly followed in deſigning the bringing theſe Nations into con<g ref="char:EOLhyphen"/>fuſion,
+<pb n="6" facs="tcp:106954:5"/>
+               <!-- PDF PAGE 88 -->that thereby they may be neceſſitated, according to the healing queſtion, to put the Sovereignty into one or a few hands.</p>
+            <p>
+               <label>VIII.</label>
+               <lb/>
+Whether theſe Nations can expect any happy, ſettled peace, or quiet, until all powers are kept to their diſtinct offices, without double capacities, and acting onely within their own ſhire, being all ſubject to the ſupream civill pow<g ref="char:EOLhyphen"/>er; and whether, if the Souldiers aim at good and righteous things, they will not in their Model of Government lay down ſome ſuch foundation, as the ſelf-denying vote not to be violated, to keep every one in a ſingle, equall, and unby<g ref="char:EOLhyphen"/>aſſed capacity; and when they have done ſo, ſubject them<g ref="char:EOLhyphen"/>ſelves to it, recommending all to the Parliament for their Sanction, who can onely derive it lawfully to future ages.</p>
+            <p>
+               <label>IX.</label>
+               <lb/>
+Whether the chief Authour of the preſent Interruption, did not, in <hi>Richards</hi> convention, argue ſtrongly againſt the being of the other Houſe of Parliament, from the Military Officers that was in it; ſaying, that ſo long as they were there, Parliaments might vote what they pleaſed, but the other would do nothing but what they pleaſed. And whe<g ref="char:EOLhyphen"/>ther doth not the ſame argument lye againſt himſelf, and the reſt of the Officers of the Armies, their being in any Civil power, ſo long as they will remain Souldiers.</p>
+            <p>
+               <pb n="7" facs="tcp:106954:5"/>
+               <!-- PDF PAGE 88 -->
+               <label>X.</label>
+               <lb/>
+Whether the interruption of the Parliament who onely can lawfully derive any new form of Government unto po<g ref="char:EOLhyphen"/>ſterity, doth not render all ſettlement by other powers un<g ref="char:EOLhyphen"/>lawful, and uſurped, and therein takes away all tyes of Con<g ref="char:EOLhyphen"/>ſcience, and the obedience of ſuch powers, and expoſeth them to be juſtly overturned, by the firſt Root, or Rabble that can get the Sword.</p>
+            <p>
+               <label>XI.</label>
+Whether the ſuppoſed Author to the healing queſtion his former denying to own <hi>Cromwel,</hi> and his Adherents, becauſe uſurpers doth not teach all others, to do the ſame towards himſelf, and thoſe he is joyned with. And whether his pre<g ref="char:EOLhyphen"/>ſent engagement doth not argue, that his former oppoſition proceeded from his being couſened of that ſhare of Govern<g ref="char:EOLhyphen"/>ment he ſhould have had, and not from any ſound, and right principles. And whether the little Secretary, who in <hi>Ri<g ref="char:EOLhyphen"/>chards</hi> convention, told him of his ſneaking Oligarchy, did not therein ſpeak his knowledge, and is not able to prove the ſame.</p>
+            <p>
+               <label>XII.</label>
+               <lb/>
+Whether the whole party of honeſt men, who have throughout been conſtant to the great Good Cauſe, are not in number ſmall, compared to their enemies, and whether this laſt interruption hath not by dividing them weakened their heads and ſtrengthened the hands of their implacable enemies to the great hazard of them and their cauſes.</p>
+            <p>
+               <pb n="8" facs="tcp:106954:6"/>
+               <!-- PDF PAGE 89 -->
+               <label>XIII.</label>
+               <lb/>
+Whether the private Intereſt of three or four perſons ought to be put in ballance with the publick and common Intereſt, and whether former ſervices be a ſufficient ground for the Army to maintain them now upon in their diſſervi<g ref="char:EOLhyphen"/>ces, and unjuſt deſigns, by ſuch a horrid Rebellion and breach of Faith, as if not repented of God will ſurely puniſh.</p>
+            <p>
+               <label>XIV.</label>
+               <lb/>
+Whether that ſince the Army of themſelves cannot maintain the Government, and that by the late horrid Rape upon the Parliament they have loſt moſt of their friends, there is any way left to preſerve themſelves, the good Old Cauſe, and the Adherents to it, but by once more calling together the Members of Parliament to the diſcharge of their duties. God having alwayes owned them in their actings, and ſufficiently expreſſed his manifeſt diſpleaſure againſt theſe Nations, when with the breath of Faith they have been interrupted. And whether the Army hath not cauſe to caſt that perſon out from amongſt them, and abomi<g ref="char:EOLhyphen"/>nate him; who at their meeting, whileſt the Parliament was ſitting, and ſome time before the interruption, ſtirred them up to this deteſtable Rebellion, by telling them, that all power was devolved upon them, and therefore wiſhed them to take the government upon themſelves, eſpecially he being one that is known to be no lover of Liberties, but a great fovourite of <hi>Harry Cromwell</hi> when he was in <hi>Ireland,</hi> and a Votary to his Tyranical Government.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:106954:6"/>
+            <!-- PDF PAGE 89 -->
+         </div>
+      </body>
+   </text>
+</TEI>
